@@ -1,106 +1,160 @@
-<h1 align="center">Hi 👋, I'm Shahid Afrid 😃</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:3B5BFF&height=190&section=header&text=Shahid%20Afrid&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%C2%B7%20Shopify%20%C2%B7%20AI%20Agents%20%C2%B7%20Node&descAlignY=62&descSize=17" width="100%" alt="Shahid Afrid" />
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer;Full-Stack+Developer;Cloud+Solutions+Architect;Building+AI+Apps+%26+SaaS;Lifelong+Learner+%F0%9F%9A%80">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer;Full-Stack+Developer;Cloud+Solutions+Architect;Building+AI+Apps+%26+SaaS;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&center=true&vCenter=true&width=620&lines=Software+Developer;Shopify+themes+%26+custom+apps;AI+agents+on+Claude+%26+MCP;Node+services+in+production">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&center=true&vCenter=true&width=620&color=3B5BFF&lines=Software+Developer;Shopify+themes+%26+custom+apps;AI+agents+on+Claude+%26+MCP;Node+services+in+production" alt="Software Developer — Shopify, AI agents, Node services" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://shxhid.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-shxhid.is--a.dev-3B5BFF?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/shahidafrid-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shahidafrid97419@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shxhid-dev"><img src="https://img.shields.io/badge/Work-@shxhid--dev-181717?style=flat-square&logo=github" alt="Work account" /></a>
+  <a href="https://github.com/akhi-shxhid"><img src="https://img.shields.io/badge/Main-@akhi--shxhid-181717?style=flat-square&logo=github" alt="Main account" /></a>
+  <img src="https://komarev.com/ghpvc/?username=akhi-shxhid&label=Profile+views&color=3B5BFF&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" alt="Developer gif" width="400"/>
-</div>
+## About
+
+Software developer in Bengaluru, building and running the systems an industrial automation distributor in Dubai operates on.
+
+- Sole developer on a **200,000-product Shopify storefront** — 23 theme builds shipped to production, most recently a full ground-up redesign that is now the live theme
+- Build **custom Shopify apps** in the Partner Dev Dashboard: app proxies, theme app extensions, Storefront and Admin APIs
+- Built an **MCP-based AI shopping agent** on the Claude API that searches the full catalogue and completes checkout inside the chat — live since February 2026
+- Write the **Node services** behind both, deployed on Railway
+- I like the whole path: interface, API, deployment, and the debugging that only starts once something is live
+
+**Portfolio with screenshots and written case studies → [shxhid.is-a.dev](https://shxhid.is-a.dev)**
+
+> 🗂️ **Two accounts:** production work lives on [**@shxhid-dev**](https://github.com/shxhid-dev), personal projects live on [**@akhi-shxhid**](https://github.com/akhi-shxhid).
 
 ---
 
-## 👨‍💻 About Me
+## Tech
+
+**Shopify** — Liquid · Online Store 2.0 · theme architecture · custom apps · theme app extensions · app proxies · metafields · Storefront GraphQL API · Admin REST API
+
+**Languages & Front end**<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,html,css" alt="Languages and front end" />
+
+**Back end & Data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,prisma,mongodb,supabase" alt="Back end and data" />
+
+**AI** — Anthropic Claude API · Model Context Protocol (MCP) · agent architecture · tool design · prompt engineering · RAG
+
+**Infrastructure**<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,aws" alt="Infrastructure" /><br/>
+Railway · CI/CD · PostHog
+
+---
+
+## In production
 
 <table>
 <tr>
-<td width="55%">
-  
-- 🔭 Passionate about **AI/ML & LLMs**  
-- 🌐 Portfolio: [shahid-topaz.vercel.app](https://shahid-topaz.vercel.app)  
-- 📫 Email: **shahidafrid97419@gmail.com**  
-- 📍 Based in Bangalore, India  
-- 🎯 Goal 2025: **Launch a SaaS AI product**  
+<td width="50%" valign="top">
+
+### [Creative Automation UAE](https://www.creativeautomation.ae)
+`Shopify Liquid` `OS 2.0` `Metafields`
+
+A 200,000-part industrial catalogue. Metafield-driven category hierarchy rendering 270+ collection pages, a three-level mega menu and auto-generated breadcrumbs with no per-collection hardcoding. Part-number-first search, filters, pre-order system, product and cart templates.
+
+[Case study →](https://shxhid.is-a.dev/#/case/vision)
 
 </td>
-<td width="45%" align="center">
-  <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" alt="Developer gif" width="300"/>
+<td width="50%" valign="top">
+
+### [Shopify AI Chat Agent](https://github.com/shxhid-dev/shxhid-chat-agent)
+`Claude API` `MCP` `React Router` `Prisma` `Railway`
+
+A Shopify Dev Dashboard app: theme app extension on the storefront, app proxy to a Dockerised backend, Shopify Storefront and Customer MCP servers over JSON-RPC, responses streamed as typed SSE events. Searches 200k products and checks out inside the conversation.
+
+[Case study →](https://shxhid.is-a.dev/#/case/agent)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [OTO Shipping Estimator](https://github.com/shxhid-dev/shxhid-shipping-proxy)
+`Node.js` `Express` `Railway`
+
+Express proxy quoting live carrier rates in the Shopify cart. One public endpoint; the refresh token never leaves the server. CORS allow-list, two tiers of rate limiting, short-TTL cache, bounded upstream retries, credential-free mock mode.
+
+[Case study →](https://shxhid.is-a.dev/#/case/shipping)
+
+</td>
+<td width="50%" valign="top">
+
+### [Brand distributor pages](https://www.creativeautomation.ae/pages/ifm-distributor)
+`Liquid page templates`
+
+Quote-first landing pages for IFM, Siemens and SMC, each with its own identity, all receiving the company's Google Ads traffic.
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🚀 Technologies & Tools
+## Personal projects
 
-**AI / ML**  
-![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,huggingface)
-
-**LLMs & Frameworks**  
-![LangChain](https://img.shields.io/badge/LangChain-005571?style=flat&logoColor=white) 
-![RAG](https://img.shields.io/badge/RAG-VectorDB-blue) 
-![Claude](https://img.shields.io/badge/Claude-111111?style=flat&logo=anthropic) 
-![Groq](https://img.shields.io/badge/Groq-FF6C37?style=flat)
-
-**Web & Backend**  
-![React](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,tailwind)
-
-**Cloud & DB**  
-![AWS](https://skillicons.dev/icons?i=aws,firebase,supabase,vercel,docker,kubernetes)  
-![Databases](https://skillicons.dev/icons?i=mongodb,postgresql)
-
-**Tools**  
-![Git](https://skillicons.dev/icons?i=git,github,vscode)
+| Project | Stack | What it does |
+|:--|:--|:--|
+| **[Tutorly](https://gettutorly.vercel.app/)** | React · Python · LLM APIs · AWS S3 | AI study platform: note generation, flashcards, quizzes, math solving, a doubt-chain assistant and an audio-recap pipeline on S3 and AssemblyAI |
+| **[Forms.io](https://formsio.vercel.app/)** | React · TypeScript · Supabase | Build, share and manage forms with live validation and response collection, in a brutalist interface |
+| **[CloudHub](https://shahid-cloud-file-storage.vercel.app/)** | Node.js · Express · MongoDB · AWS S3 | Secure file storage with JWT authentication and encrypted uploads |
 
 ---
 
-## 🧠 Featured Projects
+## Education & Certifications
 
-### 🔹 [Tutorly](https://gettutorly.com) – *AI Study Assistant*
-- Summarizes documents, generates flashcards & quizzes, chats with PDFs  
-- React, Next.js, Firebase, Supabase + Claude, GPT, GROQ  
-- Deployed on Vercel, scalable architecture  
+**Bachelor of Computer Applications** — Nitte Meenakshi Institute of Technology, Bengaluru · 2022–2025
 
-### 🔹 [CloudHub](https://shahid-cloud-file-storage.vercel.app/) – *Secure File Storage*
-- Node.js, Express, MongoDB, AWS S3  
-- JWT authentication, encrypted uploads  
-
-### 🔹 [Forms.io](https://formsio.vercel.app/) – *Modern Form Builder*
-- A powerful, modern form builder application with a brutalist design aesthetic.
-- Built with React, TypeScript, and Supabase for creating, sharing,
--  managing forms with real-time validation and response collection.
-
-### 🔹 [View all projects](https://github.com/akhi-shxhid?tab=repositories) – *All repos*
-
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner%20(May%202024)-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+<img src="https://img.shields.io/badge/IBM-AI%20Fundamentals%20(Jan%202025)-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM AI Fundamentals" />
 
 ---
 
-## 🏅 Certifications
-- 📜 AWS Certified Cloud Practitioner (May 2024)  
-- 📜 IBM AI Fundamentals (Jan 2025)  
+## Activity
 
----
+### 🟩 Contribution heat maps
 
-## 📈 GitHub Stats
-
+<p align="center"><b>Work · <a href="https://github.com/shxhid-dev">@shxhid-dev</a> · last 12 months</b></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhi-shxhid&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhi-shxhid&layout=compact&theme=radical" height="165"/>
+  <img src="https://ghchart.rshah.org/00B894/shxhid-dev" width="95%" alt="Contribution heat map for shxhid-dev" />
+</p>
+
+<p align="center"><b>Main · <a href="https://github.com/akhi-shxhid">@akhi-shxhid</a> · 2025</b></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akhi-shxhid/akhi-shxhid/main/assets/heatmap-2025.svg" width="95%" alt="2025 contribution heat map for akhi-shxhid" />
+</p>
+<p align="center">
+  <sub><a href="https://github.com/akhi-shxhid?tab=overview&from=2025-01-01&to=2025-12-31">View the full 2025 graph on GitHub →</a></sub>
+</p>
+
+### 📈 Stats
+
+<p align="center"><b>Work · @shxhid-dev</b></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shxhid-dev&show_icons=true&hide_border=true&theme=github_dark&title_color=00B894&icon_color=00B894" height="160" alt="Stats for shxhid-dev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxhid-dev&layout=compact&hide_border=true&theme=github_dark&title_color=00B894" height="160" alt="Top languages for shxhid-dev" />
+</p>
+
+<p align="center"><b>Main · @akhi-shxhid · 2025</b></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhi-shxhid&show_icons=true&hide_border=true&theme=github_dark&title_color=3B5BFF&icon_color=3B5BFF&include_all_commits=true&commits_year=2025" height="160" alt="2025 stats for akhi-shxhid" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhi-shxhid&layout=compact&hide_border=true&theme=github_dark&title_color=3B5BFF" height="160" alt="Top languages for akhi-shxhid" />
 </p>
 
 ---
 
-## 🤝 Connect with Me
-<p align="center">
-  <a href="mailto:shahidafrid97419@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-  <a href="https://github.com/akhi-shxhid"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-  <a href="https://shahid-topaz.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>
-</p>
+<p align="center"><i>Built to run, not just to demo.</i></p>
 
----
-
-<p align="center"><i>"Code is the tool. Intelligence is the engine. Impact is the goal."</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:3B5BFF&height=90&section=footer" width="100%" alt="" />
